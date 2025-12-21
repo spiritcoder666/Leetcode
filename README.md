@@ -15,8 +15,17 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spiritcoder666/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spiritcoder666/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+## Greedy
+|  |
+| ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
