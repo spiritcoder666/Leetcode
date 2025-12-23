@@ -44,4 +44,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/spiritcoder666/Leetcode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/spiritcoder666/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/spiritcoder666/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
