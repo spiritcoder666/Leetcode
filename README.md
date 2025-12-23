@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/spiritcoder666/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -36,10 +37,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0136-single-number](https://github.com/spiritcoder666/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0137-single-number-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/spiritcoder666/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/spiritcoder666/Leetcode/tree/master/0217-contains-duplicate) |
+| [2351-first-letter-to-appear-twice](https://github.com/spiritcoder666/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -52,4 +55,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/spiritcoder666/Leetcode/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/spiritcoder666/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
