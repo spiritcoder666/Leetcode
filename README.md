@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spiritcoder666/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/spiritcoder666/Leetcode/tree/master/0136-single-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Two Pointers
 |  |
@@ -28,4 +29,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/spiritcoder666/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
