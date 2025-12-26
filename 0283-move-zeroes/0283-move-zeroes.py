@@ -2,21 +2,14 @@ class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
-        [1,2,0,4,5,0,0,2]
         """
-        n = len(nums)
-        if n==1:
-            return 
-        i=0
-        while i<n:
-            if nums[i]==0:
-                break
-            i+=1
-        if i == len(nums):
-            return
-        j = i+1
-        while j< n :
-            if nums[j] != 0:
-                nums[i],nums[j]=nums[j],nums[i]
-                i+=1
-            j+=1
+        n=len(nums)
+        t=[]
+        for i in range(0,len(nums)):
+            if nums[i]!=0:
+                t.append(nums[i])
+        b = n-len(t)
+        t=t+[0]*b
+        nums[:]=t[:]         
+
+        
