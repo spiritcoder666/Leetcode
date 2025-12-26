@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0137-single-number-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/spiritcoder666/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/spiritcoder666/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/spiritcoder666/Leetcode/tree/master/0283-move-zeroes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2239-find-closest-number-to-zero](https://github.com/spiritcoder666/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Two Pointers
@@ -26,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spiritcoder666/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/spiritcoder666/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/spiritcoder666/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
