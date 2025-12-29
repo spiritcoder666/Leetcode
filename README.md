@@ -65,4 +65,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/spiritcoder666/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/spiritcoder666/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
