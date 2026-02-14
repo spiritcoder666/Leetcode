@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spiritcoder666/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/spiritcoder666/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/spiritcoder666/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/spiritcoder666/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/spiritcoder666/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/spiritcoder666/Leetcode/tree/master/0283-move-zeroes) |
@@ -46,11 +47,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/spiritcoder666/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/spiritcoder666/Leetcode/tree/master/0217-contains-duplicate) |
 | [2351-first-letter-to-appear-twice](https://github.com/spiritcoder666/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/spiritcoder666/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/spiritcoder666/Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -64,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/spiritcoder666/Leetcode/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/spiritcoder666/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Database
 |  |
@@ -77,4 +81,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/spiritcoder666/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/spiritcoder666/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/spiritcoder666/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/spiritcoder666/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
