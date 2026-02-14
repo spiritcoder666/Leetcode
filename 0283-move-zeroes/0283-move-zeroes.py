@@ -4,12 +4,11 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n=len(nums)
-        t=[]
-        for i in range(0,len(nums)):
-            if nums[i]!=0:
-                t.append(nums[i])
-        b = n-len(t)
-        t=t+[0]*b
-        nums[:]=t[:]         
-
+        j=0
+        for i in range(0,n):
+            if nums[i] !=0 and nums[j] ==0:
+                nums[i],nums[j]=nums[j],nums[i]
+            if nums[j] != 0 :
+                j += 1
+        
         
