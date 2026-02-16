@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/spiritcoder666/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/spiritcoder666/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/spiritcoder666/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/spiritcoder666/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/spiritcoder666/Leetcode/tree/master/0283-move-zeroes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2239-find-closest-number-to-zero](https://github.com/spiritcoder666/Leetcode/tree/master/2239-find-closest-number-to-zero) |
@@ -90,4 +91,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spiritcoder666/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/spiritcoder666/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
