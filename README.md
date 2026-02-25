@@ -32,9 +32,11 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spiritcoder666/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/spiritcoder666/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/spiritcoder666/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/spiritcoder666/Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/spiritcoder666/Leetcode/tree/master/0392-is-subsequence) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/spiritcoder666/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
@@ -94,6 +96,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spiritcoder666/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/spiritcoder666/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/spiritcoder666/Leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
